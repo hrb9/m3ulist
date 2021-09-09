@@ -1,0 +1,20 @@
+﻿#EXTM3U
+
+#EXTINF:11, tvg-id="epg01" tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" tvg-name="KAN 11"  group-title="Idan Plus",KAN 11
+https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
+
+#EXTINF:12, tvg-id="epg01" tvg-logo="https://i.ibb.co/qBKNrv5/keshet.png" tvg-name="KESHET 12"  group-title="Idan Plus",KESHET 12
+https://keshethlslive-lh.akamaihd.net/i/CH12CC_1@732426/index_2200_av.m3u8
+
+#EXTINF:13, tvg-id="epg01" tvg-logo="https://i.ibb.co/6PPHnBS/13.png" tvg-name="RESHET 13"  group-title="Idan Plus",RESHET 13
+https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8
+
+#EXTINF:14, tvg-id="epg01" tvg-logo="https://i.ibb.co/vc6zbq4/20tvp.png" tvg-name="ARUTZ 20"  group-title="Idan Plus",ARUTZ 20
+https://dvr.ch20-cdnwiz.com/hls/live_720/index.m3u8
+
+#EXTINF:15, tvg-id="epg01" tvg-logo="https://i.ibb.co/0cGcHCD/23.jpg" tvg-name="HINUCHIT 23"  group-title="Idan Plus",HINUCHIT 23
+https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/playlist.m3u8
+
+#EXTINF:16, tvg-id="epg01" tvg-logo="https://i.ibb.co/zP5vjLD/knesset.png" tvg-name="HAKNESSET "  group-title="Idan Plus",HAKNESSET 
+https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
+
