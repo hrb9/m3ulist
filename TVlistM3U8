@@ -1,26 +1,25 @@
 #EXTM3U
 
 #EXTINF:-1, tvg-id="Keshet12-01", Keshet12
-https://keshethlslive-lh.akamaihd.net/i ... ozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+https://keshethlslive-lh.akamaihd.net/i/CH12CC_1@732426/index_2200_av.m3u8%7CUser-Agent=Mozilla/5.0 Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
 
 #EXTINF:-1, tvg-id="Keshet12-02", Keshet12-2
-https://keshethlslive-lh.akamaihd.net/i ... 00_av.m3u8
+https://keshethlslive-lh.akamaihd.net/i/CH12CC_1@732426/index_2200_av.m3u8
 
 #EXTINF:-1, tvg-id="Kan11", Kan11
-https://kanlivep2event-i.akamaihd.net/h ... klist.m3u8
+https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8
 
 #EXTINF:-1, tvg-id="Reshet13", Reshet13
-https://d18b0e6mopany4.cloudfront.net/o ... dex_3.m3u8
+https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
 
 #EXTINF:-1, tvg-id="20", 20(New 14)
 https://dvr.ch20-cdnwiz.com/hls/live_1080/index.m3u8
 
 #EXTINF:-1, tvg-id="Kan-Kids", Kan-Kids
-https://kanlivep2event-i.akamaihd.net/h ... klist.m3u8
+https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunklist.m3u8
 
 #EXTINF:-1, tvg-id="Knesset", Knesset
-https://contact.gostreaming.tv/Knesset/ ... klist.m3u8
-
+https://contact.gostreaming.tv/Knesset/myStream/chunklist.m3u8
 
 
 
